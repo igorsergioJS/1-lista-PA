@@ -2,8 +2,8 @@ Os valores das seguintes expressões foram:
 
 p == &i: 1 (Representando o true de um boolean)
 
-*p - *q: -2 (Imprimindo como um decimal)
+*p - *q: -2 (Imprimindo como um decimal/inteiro)
 
-**&p: 3 (Imprimindo como um decimal)
+**&p: 3 (Imprimindo como um decimal/inteiro)
 
-3 - *p/(*q) + 7: 10 (Imprimindo como um decimal)
+3 - *p/(*q) + 7: 10 (Imprimindo como um decimal/inteiro)
