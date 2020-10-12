@@ -119,5 +119,12 @@ int main(){
         printf("\n");
     }
 
+    free(C[0]);
+    free(B[0]);
+    free(A[0]);
+    free(C);
+    free(B);
+    free(A);
+
     return 0;
 }
