@@ -2,6 +2,6 @@
  
  Integrantes:
 
-* Igor Sérgio
+* Igor Sérgio de França Correia
 * Thiago Theiry
 
